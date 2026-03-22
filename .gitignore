@@ -1,0 +1,26 @@
+# --- Project Specifics ---
+# Ignore the large data and archive files
+data/
+archive.zip
+
+# Ignore generated outputs and trained models
+# (Usually you only want to track code, not GBs of weights)
+models/
+
+# --- Python & Tools ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mypy cache
+.mypy_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# --- Environments (Optional but recommended) ---
+# If you ever create a virtual environment in this folder
+venv/
+env/
+.env
