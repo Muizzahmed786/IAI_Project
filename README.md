@@ -1,3 +1,3 @@
 # IAI_Project
 
-Dataset : https://github.com/Muizzahmed786/IAI_Project.git
+Dataset : https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
